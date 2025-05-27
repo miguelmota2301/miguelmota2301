@@ -4,9 +4,13 @@ I'm a Computer Engineering student at UFBA and a System Engineering Intern at Fo
 Enthusiast of Data Science, Machine Learning, software development and embedded systems.
 
 🔭 I’m currently working on projects with focus on embedded systems and Object-oriented Programming
+
 🌱 I’m currently learning Object-oriented Programming
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguelmota23/)
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I speak 4 languages and I'm a really good volleyball player
 
 ---
