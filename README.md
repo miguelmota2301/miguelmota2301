@@ -5,8 +5,6 @@ Enthusiast of Data Science, Machine Learning, software development and embedded 
 
 🔭 I’m currently working on projects with focus on embedded systems and Object-oriented Programming
 
-🌱 I’m currently learning Object-oriented Programming
-
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguelmota23/)
 
 😄 Pronouns: He/Him
@@ -20,6 +18,7 @@ Enthusiast of Data Science, Machine Learning, software development and embedded 
 - Python
 - C
 - Java
+- Verilog
 - JavaScript
 - Matlab / Octave
 - Git
